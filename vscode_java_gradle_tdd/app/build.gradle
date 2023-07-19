@@ -35,3 +35,10 @@ application {
 //     // Use JUnit Platform for unit tests.
 //     useJUnitPlatform()
 // }
+
+// manifest 설정
+jar {
+    manifest {
+        attributes 'Main-Class': 'vscode_java_gradle_tdd.App'
+    }
+}
