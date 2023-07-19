@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DemoSpringSettingApplication<demo-spring-setting>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "dev.calixlock.demospringsetting.DemoSpringSettingApplication",
+      "projectName": "demo-spring-setting",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
