@@ -38,6 +38,7 @@ public class array {
                 { 11, 12, 13, 14, 15 }
         };
         System.out.println(Arrays.deepToString(demension_2));
-        System.out.println(demension_2.length);
+        System.out.println(demension_2.length); // 3
+        System.out.println(demension_2[0].length);
     }
 }
