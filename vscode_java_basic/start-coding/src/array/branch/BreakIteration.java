@@ -1,4 +1,4 @@
-package branch;
+package array.branch;
 
 public class BreakIteration {
     public static void main(String[] args) {
